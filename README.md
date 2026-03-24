@@ -92,14 +92,13 @@ cd machine-learning-projects
 ### 2. Create environment
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate
+
 ```
 
 ### 3. Install dependencies
 
 ```bash
-pip install -r requirements.txt
+
 ```
 
 ### 4. Run notebooks
@@ -138,7 +137,7 @@ This project is open-source and available under the MIT License.
 ## 👤 Author
 
 **Michael Hayk**
-GitHub: https://github.com/mn-cs
+GitHub: `https://github.com/mn-cs`
 
 ---
 
